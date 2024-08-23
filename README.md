@@ -8,9 +8,9 @@ Este script escanea mas vulnerabilidades que la version anterior, detecta el CMS
 
 ## Uso
 
-git clone 
+git clone https://github.com/Anonimo501/XAttacker-V3.0.git
 
-cd 
+cd XAttacker-V3.0/
 
 chmod +x XAttacker-V3.0.pl
 
