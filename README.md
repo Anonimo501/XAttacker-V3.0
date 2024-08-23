@@ -14,4 +14,4 @@ cd XAttacker-V3.0/
 
 chmod +x XAttacker-V3.0.pl
 
-perl XAttacker-V3.0.pl --target http://mio.com.co
+perl XAttacker-V3.0.pl --target http://url.com
